@@ -29,7 +29,7 @@ This Python application leverages Tkinter for the graphical user interface and i
 
 ## 📸 Screenshots
 
-![Application Screenshot](screenshot.png)
+![Application Screenshot](screenshot.jpg)
 
 ## 🚀 Installation
 
