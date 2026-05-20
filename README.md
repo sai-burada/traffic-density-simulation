@@ -42,4 +42,5 @@ python TSS01.py
 Ensure Python 3.x is installed on your system. Then, install the required dependencies:
 
 ```bash
-pip pip install -r requirements.txt
+pip install -r requirements.txt
+```
